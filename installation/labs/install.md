@@ -1,3 +1,4 @@
+###
 <!-- CSS work goes here for the time being -->
 <!-- set a:link text-decoration to none -->
 <!-- set a:hover text-decoration to underline -->
@@ -338,3 +339,5 @@ In your Issue for this lab, indicate which plan you intend to follow.
     * Try `http://<i>your_cm_host</i>:7180/api/version` in your browser
     * Some endpoints won't work for 4.x CDH deployments
         * CM API [is documented here](http://cloudera.github.io/cm_api/)
+
+###

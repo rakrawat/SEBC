@@ -1,3 +1,4 @@
+###
 curl -u rakrawat:cloudera http://ec2-52-39-22-126.us-west-2.compute.amazonaws.com:7180/api/v12/clusters/RakRawat/services/hive
 {
   "name" : "hive",
@@ -25,3 +26,5 @@ curl -u rakrawat:cloudera http://ec2-52-39-22-126.us-west-2.compute.amazonaws.co
   "displayName" : "Hive",
   "entityStatus" : "GOOD_HEALTH"
 }[root@ec2-52-39-22-126 cloudera-scm-agent]#
+
+###

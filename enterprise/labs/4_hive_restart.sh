@@ -1,3 +1,4 @@
+###
 [root@ec2-52-39-22-126 cloudera-scm-agent]# curl -X POST -u rakrawat:cloudera 'http://http://ec2-52-39-22-126.us-west-2.compute.amazonaws.com:7180/api/v2/clusters/RakRawat/services/hive/commands/stop'
 
 
@@ -27,3 +28,5 @@
     "clusterName" : "cluster",
     "serviceName" : "hive"
   }
+
+###

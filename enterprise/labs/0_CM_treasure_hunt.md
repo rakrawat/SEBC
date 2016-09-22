@@ -1,4 +1,4 @@
-
+###
 Q: Ubertask optimization
 
 It is the ability to run map and resource task within the application master and reduce the overhead of launching separate map and reduce container. It is enabled in YARN.
@@ -32,3 +32,5 @@ Setup Working KDC,
 non-zero ticket lifetime, renewable tickets, kerberos client on all nodes. openldap if using AD
 
 cloudera account to create another account
+
+###
